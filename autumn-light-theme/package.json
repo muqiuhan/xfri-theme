@@ -1,0 +1,21 @@
+{
+    "name": "autumn-light-theme",
+    "displayName": "Autumn Light Theme",
+    "description": "Pure white theme, like the clouds floating in the sky",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Autumn Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Autumn Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
