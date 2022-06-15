@@ -5,6 +5,7 @@
     "displayName": "Autumn Light Theme",
     "description": "Pure white theme, like the clouds floating in the sky",
     "version": "0.0.1",
+    "icon": "images/logo.jpg",
     "engines": {
         "vscode": "^1.68.0"
     },

@@ -4,6 +4,7 @@
     "publisher": "MuqiuHan",
     "repository": "https://gitee.com/muqiu-han/autumn_theme",
     "description": "Pure black theme, like a cup of hot tea in the dark night",
+    "icon": "images/logo.jpg",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
