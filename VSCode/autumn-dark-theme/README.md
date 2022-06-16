@@ -1,5 +1,6 @@
 # INTRODUCTION
-This is the VSCode branch of the Autumn Theme theme series
+Pure black theme, like a cup of hot tea in the dark night.
+This is the VSCode branch of the Autumn Theme theme series.
 
 # PREVIEW
 

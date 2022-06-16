@@ -1,5 +1,6 @@
 # INTRODUCTION
-This is the VSCode branch of the Autumn Theme theme series
+Pure white theme, like the clouds floating in the sky.
+This is the VSCode branch of the Autumn Theme theme series.
 
 # PREVIEW
 
