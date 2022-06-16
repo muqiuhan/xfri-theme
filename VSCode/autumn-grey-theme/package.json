@@ -1,0 +1,23 @@
+{
+    "name": "autumn-grey-theme",
+    "displayName": "Autumn Grey Theme",
+    "description": "Gray theme, like lying in a thunderstorm on a soft and comfortable sofa",
+    "version": "0.0.1",
+    "repository": "https://gitee.com/muqiu-han/autumn_theme/tree/master/VSCode/autumn-grey-theme",
+    "icon": "images/logo.jpg",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Autumn Grey Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Autumn Grey Theme-color-theme.json"
+            }
+        ]
+    }
+}
