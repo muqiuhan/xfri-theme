@@ -4,7 +4,7 @@ This is the VSCode branch of the Autumn Theme theme series.
 
 # PREVIEW
 
-![](autumn-grey-theme/images/Autumn%20Grey%20Theme.png)
+![](images/Autumn%20Grey%20Theme.png)
 
 # LICENSE
 Copyright (c) 2022 Muqiu Han
