@@ -12,7 +12,7 @@ VSCode Autumn Light Theme:
 ![](autumn-light-theme/images/Autumn%20Light%20Theme.png)
 
 VSCode Autumn Grey Theme:
-![](https://gitee.com/muqiu-han/autumn_theme/raw/master/VSCode/autumn-grey-theme/images/Autumn%20Grey%20Theme.png)
+![](autumn-grey-theme/images/Autumn%20Grey%20Theme.png)
 
 # LICENSE
 
