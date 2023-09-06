@@ -2,9 +2,9 @@
     "name": "xfri-theme",
     "publisher": "MuqiuHan",
     "repository": "https://github.com/X-FRI/xfri-theme/tree/master/VSCode",
-    "displayName": "The X-Files Research Institute Themes",
+    "displayName": "The X-Files Research Institute Theme Pack",
     "description": "The X-Files Research Institute Theme Pack",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "icon": "images/logo.jpg",
     "engines": {
         "vscode": "^1.68.0"
