@@ -1,21 +1,14 @@
 # INTRODUCTION
-This is the VSCode branch of the Autumn Themes theme series
+Pure white theme, like the clouds floating in the sky.
+This is the VSCode branch of the Autumn Theme theme series.
 
 # PREVIEW
 
-VSCode Autumn Dark Theme:
-
-![](autumn-dark-theme/images/Autumn%20Dark%20Theme.png)
-
-VSCode Autumn Light Theme:
-
-![](autumn-light-theme/images/Autumn%20Light%20Theme.png)
-
-VSCode Autumn Grey Theme:
-![](autumn-grey-theme/images/Autumn%20Grey%20Theme.png)
+![Screenshot - XFRI Dark](/VSCode/images/XFRI%20Dark.png)
+![Screenshot - XFRI Grey](/VSCode/images/XFRI%20Grey.png)
+![Screenshot - XFRI Light](/VSCode/images/XFRI%20Light.png)
 
 # LICENSE
-
 Copyright (c) 2022 Muqiu Han
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

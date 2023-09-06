@@ -1789,7 +1789,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#007700"
       }
     },
@@ -1826,7 +1826,7 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -1979,8 +1979,8 @@
     "badge.foreground": "#333333",
     "terminal.foreground": "#333333",
     "terminal.selectionBackground": "#00000040",
-    "terminalCursor.background": "#0087FF",
-    "terminalCursor.foreground": "#ffffff",
+    "terminalCursor.background": "#ffffff",
+    "terminalCursor.foreground": "#000000",
     "terminal.border": "#80808059",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#0451a5",
