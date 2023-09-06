@@ -1874,6 +1874,7 @@
     "list.highlightForeground": "#0097fb",
     "list.focusBackground": "#111111",
     "list.focusForeground": "#cccccc",
+    "list.errorForeground": "#ff5c6c",
     "listFilterWidget.background": "#222222",
     "listFilterWidget.outline": "#111111",
     "listFilterWidget.noMatchesOutline": "#111111",
