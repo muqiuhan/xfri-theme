@@ -4,9 +4,9 @@ This is the VSCode branch of the Autumn Theme theme series.
 
 # PREVIEW
 
-![](https://github.com/X-FRI/xfri-theme/blob/master/VSCode/images/XFRI%20Dark.png)
-![](https://github.com/X-FRI/xfri-theme/blob/master/VSCode/images/XFRI%20Grey.png)
-![](https://github.com/X-FRI/xfri-theme/blob/master/VSCode/images/XFRI%20Light.png)
+![Screenshot - XFRI Dark](/VSCode/images/XFRI%20Dark.png)
+![Screenshot - XFRI Grey](/VSCode/images/XFRI%20Grey.png)
+![Screenshot - XFRI Light](/VSCode/images/XFRI%20Light.png)
 
 # LICENSE
 Copyright (c) 2022 Muqiu Han
