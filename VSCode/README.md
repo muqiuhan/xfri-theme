@@ -1,6 +1,5 @@
 # INTRODUCTION
-Pure white theme, like the clouds floating in the sky.
-This is the VSCode branch of the Autumn Theme theme series.
+Theme package provided by The X-Files Research Institute, suitable for use in bright light, low light and indoor environments.
 
 # PREVIEW
 

@@ -24,7 +24,11 @@
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 
+CONTRIBUTION GUIDE
+	XFRI theme pack are classified by development tools, not by colorscheme.
+	For example, when making a VSCode theme, XFRI Dark, XFRI Gray and XFRI Light should be made separately in the VSCode directory, not in the project root directory.
 
-HOW TO USE?
-	
-	I have put the themes in different folders according to the application, just select the application theme you need.
+	Members of this organization only need to commit to this repo, 
+	other people can PR, and @muqiuhan is responsible for submitting updates to marketplace.visualstudio.com.
+
+	o- VSCode Theme Studio: https://themes.vscode.one
