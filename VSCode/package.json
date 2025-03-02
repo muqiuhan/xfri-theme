@@ -4,8 +4,8 @@
     "repository": "https://github.com/X-FRI/xfri-theme/tree/master/VSCode",
     "displayName": "The X-Files Research Institute Theme Pack",
     "description": "The X-Files Research Institute Theme Pack",
-    "version": "0.1.5",
-    "icon": "images/logo.jpg",
+    "version": "0.3.6",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -19,11 +19,6 @@
                 "label": "XFRI Dark Theme",
                 "uiTheme": "vs",
                 "path": "./themes/XFRI Dark Theme.json"
-            },
-            {
-                "label": "XFRI Grey Theme",
-                "uiTheme": "vs",
-                "path": "./themes/XFRI Grey Theme.json"
             },
             {
                 "label": "XFRI Light Theme",
