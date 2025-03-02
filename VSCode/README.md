@@ -4,7 +4,6 @@ Theme package provided by The X-Files Research Institute, suitable for use in br
 # PREVIEW
 
 ![Screenshot - XFRI Dark](/VSCode/images/XFRI%20Dark.png)
-![Screenshot - XFRI Grey](/VSCode/images/XFRI%20Grey.png)
 ![Screenshot - XFRI Light](/VSCode/images/XFRI%20Light.png)
 
 # LICENSE

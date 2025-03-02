@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/The%20X--Files%20Research%20Institute-f87700)](https://github.com/x-fri)
 
-![Demo.png](./images/demo.png)
+![Demo.png](./VSCode/images/XFRI%20Dark.png)
 
 </div>
 
